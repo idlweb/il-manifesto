@@ -8,7 +8,7 @@
   <img src="https://avatars3.githubusercontent.com/u/57659134" width="128" height="128">
 </p>
 
-> In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e di professioni diverse:  
+> In breve e in maniera semplicistica il progetto che stiamo portando avanti con un gruppo di colleghi e amici con competenze e professioni diverse:  
 abbiamo avviato un L.I.T. (Laboratorio sperimentale per le Innovazioni Tecnologiche  al servizio degli enti comunali) con il comune di Spinazzola, come capofila, in cui stiamo allestendo infrastrutture di monitoraggio per produrre open-data con strumenti sviluppati con logiche open-source su vari aspetti legati alla qualità della vita e del territorio come riferimento. La raccolta dei dati sarà fruibile per l'appunto su installazioni specializzate come il CKAN (con plugin D-CAT), su GIS e/o altre molteplici soluzioni di mappatura. L'aspetto fondamentale è costituito dall'impegno di ricercare e selezionare in maniera continua progetti che abbiano uno sviluppo sui cosiddetti Git-Hub e siano open-source.
 Vorremmo poter produrre ed aggiornare elenchi di dispositivi hardware per lo sviluppo DIY dopo aver provveduto ad una sperimentazione adeguata ed aver integrato una significativa valutazione degli errori, possibilmente guidati da una collaborazione con docenti delle Università.
 Avremmo il desiderio di produrre un elaborato periodico a sostegno della necessità di muoverci nell'ambito della teoria della complessità collegando la trasparenza, la partecipazione e la collaborazione. 
